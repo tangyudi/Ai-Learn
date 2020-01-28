@@ -1,12 +1,12 @@
 <div align="center">
-<a href="https://github.com/tangyudi/Ai-learn"><img src="https://github.com/tangyudi/Ai-learn/blob/master/imgs/logo2.png" width="200" height="600"/></a>
+<a href="https://github.com/tangyudi/Ai-learn"><img src="https://github.com/tangyudi/Ai-learn/blob/master/imgs/logo2.png" width="200"/></a>
 
 <a class="ai-header-badge" target="_blank" href="https://github.com/tangyudi/Ai-learn">
 <img class="ai-header-badge-img" src="https://img.shields.io/github/stars/tangyudi/Ai-learn.svg?style=social&label=Star">
 </a>
 
 <a class="ai-header-badge" target="_blank" href="https://www.linkedin.com/company/practicalai-me">
-<img src="https://img.shields.io/badge/style--5eba00.svg?label=Î¢ĞÅÈëÈº&logo=wechat&style=social">
+<img src="https://img.shields.io/badge/style--5eba00.svg?label=WeChat&logo=wechat&style=social">
 </a>
 
 <sub>Created by
