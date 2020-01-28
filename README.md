@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://github.com/tangyudi/Ai-learn"><img src="https://github.com/tangyudi/Ai-learn/blob/master/imgs/logo2.png" width="200" /></a>
+<a href="https://github.com/tangyudi/Ai-learn"><img src="https://github.com/tangyudi/Ai-learn/blob/master/imgs/logo2.png"/></a>
 
 <a class="ai-header-badge" target="_blank" href="https://github.com/tangyudi/Ai-learn">
 <img class="ai-header-badge-img" src="https://img.shields.io/github/stars/tangyudi/Ai-learn.svg?style=social&label=Star">
