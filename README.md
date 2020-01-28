@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://github.com/tangyudi/Ai-learn"><img src="https://github.com/tangyudi/Ai-learn/blob/master/imgs/logo2.png"/></a>
+<a href="https://github.com/tangyudi/Ai-learn"><img src="https://github.com/tangyudi/Ai-learn/blob/master/imgs/logo2.png" width="200" height="600"/></a>
 
 <a class="ai-header-badge" target="_blank" href="https://github.com/tangyudi/Ai-learn">
 <img class="ai-header-badge-img" src="https://img.shields.io/github/stars/tangyudi/Ai-learn.svg?style=social&label=Star">
@@ -10,7 +10,7 @@
 </a>
 
 <sub>Created by
-<a href="https://goku.me" target="_blank">Ã∆”Óµœ</a> 
+<a href="https://github.com/tangyudi" target="_blank">Ã∆”Óµœ</a> 
 </sub>
 </div>
 
