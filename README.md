@@ -1,3 +1,5 @@
+![记得STAR收藏](https://img.shields.io/badge/收藏-★★★★★brightgreen.svg)
+
 # 人工智能实战就业(面试)路线图
 
 ## 必备数学基础
