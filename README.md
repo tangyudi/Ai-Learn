@@ -17,8 +17,8 @@
 # 人工智能实战就业(面试)路线图
 
 # Contents  
-- [Abstract](#abstract)  
-- [Preface](#preface)  
+- [必备Python基础](#必备Python基础)  
+- [必备数学基础](#必备数学基础)  
 - [Design idea and innovation point](#design-idea-and-innovation-point)  
   - [Background](#background) 
   - [Design inspirations](#design-inspirations) 
