@@ -17,7 +17,7 @@
 # 人工智能实战就业(面试)路线图
 
 <div align="center">
-<a href="https://github.com/tangyudi/Ai-learn"><img src="https://github.com/tangyudi/Ai-learn/blob/master/imgs/logo4.png" width="400"/></a>
+<a href="https://github.com/tangyudi/Ai-learn"><img src="https://github.com/tangyudi/Ai-learn/blob/master/imgs/logo5.png" width="400"/></a>
 <br >
 </sub>
 </div>
