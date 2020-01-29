@@ -16,7 +16,13 @@
 
 # 人工智能实战就业(面试)路线图
 
-# Contents  
+<div align="center">
+<a href="https://github.com/tangyudi/Ai-learn"><img src="https://github.com/tangyudi/Ai-learn/blob/master/imgs/logo3.png" width="400"/></a>
+<br >
+</sub>
+</div>
+
+# 目录  
 - [必备基础技能](#必备基础技能)
   - [必备Python基础](#必备Python基础) 
   - [必备数学基础](#必备数学基础)   
@@ -44,18 +50,6 @@
   - [计算机视觉实战项目（基于深度学习）](#计算机视觉实战项目（基于深度学习）) 
 - [自然语言处理](#自然语言处理)
   - [自然语言处理实战项目（基于深度学习）](#自然语言处理实战项目（基于深度学习）) 
-  
-
-
-
-  
- 
-- [必备数学基础](#必备数学基础)  
-- [Design idea and innovation point](#design-idea-and-innovation-point)  
-  - [Background](#background) 
-  - [Design inspirations](#design-inspirations) 
-  - [Innovation point](#innovation-point)  
-  - [Developmental vision](#developmental-vision) 
   
 # 必备基础技能
 
