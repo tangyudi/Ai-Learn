@@ -5,7 +5,7 @@
 <img class="ai-header-badge-img" src="https://img.shields.io/github/stars/tangyudi/Ai-learn.svg?style=social&label=Star">
 </a>
 
-<a class="ai-header-badge" target="_blank" href="https://www.linkedin.com/company/practicalai-me">
+<a class="ai-header-badge" target="_blank" href="https://github.com/tangyudi/Ai-learn/blob/master/imgs/logo8.png">
 <img src="https://img.shields.io/badge/style--5eba00.svg?label=WeChat&logo=wechat&style=social">
 </a>
 
@@ -31,7 +31,7 @@
 
 - [x] 按照什么顺序开始学习？
 
-下面目录也就是学习路线路了，初学者建议按照目录中给出的顺序来进行学习，已经入门的同学就可以按照自己的喜好来选择了。
+下面目录也就是学习路线路了，初学者建议按照目录中给出的顺那我觉得你的别动序来进行学习，已经入门的同学就可以按照自己的喜好来选择了。
 
 - [x] 提供案例如何获取？
 
