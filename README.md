@@ -30,6 +30,7 @@
 在本项目主页即可下载PDF版本，[教材如果喜欢也可从京东购买。](https://item.jd.com/12684940.html)
 
 **《跟着迪哥学Python数据分析与机器学习实战》PDF原版下载** ：
+
 (网盘链接: https://pan.baidu.com/s/19wzJeyPmwTBDp9ASEWBvFQ 提取码: tece )
 
 - [x] 按照什么顺序开始学习？
